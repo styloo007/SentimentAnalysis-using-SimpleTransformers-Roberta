@@ -34,6 +34,4 @@ The fine-tuning process involves training the `RoBERTa` model on the IMDB datase
 
 After fine-tuning, the model is evaluated on the test set to assess its performance in predicting the sentiment of movie reviews.
 
----
 
-This template summarizes the key aspects of your project without including the code itself. You can expand on each section as needed.
